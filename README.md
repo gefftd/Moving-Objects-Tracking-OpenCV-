@@ -1,7 +1,7 @@
 # Multi-Object Tracking using OpenCV (C++)
 
 ## 📌 Project Overview
-
+![result](./Images/result.png)
 This project implements a classical computer vision pipeline for detecting and tracking moving objects in video streams.
 
 It uses traditional image processing methods instead of deep learning, including background subtraction, morphological filtering, contour detection, and centroid-based tracking.
